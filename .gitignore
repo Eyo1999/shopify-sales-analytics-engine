@@ -1,0 +1,10 @@
+# Ignore generated raw CSV files
+data/*.csv
+
+# Ignore Python cached files
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
