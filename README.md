@@ -1,8 +1,8 @@
 # E-Commerce Multi-Channel Sales Data Consolidation & Analytics Engine
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-blue?logo=postgresql)
-![Bash](https://img.shields.io/badge/Pipeline-Bash%20%26%20SQL-green?logo=gnu-bash)
-![Data Volume](https://img.shields.io/badge/Volume-60k%2B%20Records-orange)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-blue?logo=postgresql)](https://www.postgresql.org/)
+[![Bash](https://img.shields.io/badge/Pipeline-Bash%20%26%20SQL-green?logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Data Volume](https://img.shields.io/badge/Volume-60k%2B%20Records-orange)](#performance-benchmark)
 
 An end-to-end relational database architecture, high-performance bulk ingestion pipeline, and executive reporting suite built to consolidate un-normalized, multi-channel e-commerce sales data (Shopify, Amazon, Wholesale) into an actionable PostgreSQL database.
 
